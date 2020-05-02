@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ashwin Devaraj"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "3rd Year CS and Math student at UT Austin"
   location         : "Austin, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "ashwin.dev.pro@gnail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
